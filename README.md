@@ -20,7 +20,7 @@ The API Gateway & Service Registry is a project that provides a centralized gate
 
 
 ### Demo
-
+![image](https://github.com/teja0404/APIGateway-ServiceRegistry/assets/38076041/eeff62d5-0c17-48d7-96c9-f7f620fde951)
 
 ### Contact
 If you have any questions or suggestions, feel free to contact me at tejailla0404@gmail.com
